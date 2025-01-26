@@ -158,10 +158,10 @@ WAR-файлды жинау плагині Maven-жобасында `war` упа
 
 ## Скриншоттар  
 1. **Жобаны құру:**  
-   ![Жобаның құру](https://i.yapx.ru/YYJy8.png)  
+   ![Жобаның құру](./screens/creating-project.png)  
 
 2. **Жобаны іске қосу:**  
-   ![Нәтиже](https://i.yapx.ru/YYJy7.png)  
+   ![Жобаны іске жіберу](./screens/building-project.png)  
 
-2. **Сервлеттің нәтижесі:**  
-   ![Нәтиже](https://i.yapx.ru/YYJy9.png)  
+3. **Сервлеттің нәтижесі:**  
+   ![Нәтиже](./screens/result.png)  
